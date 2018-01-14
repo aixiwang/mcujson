@@ -1,0 +1,17 @@
+{
+    "first_name": "test",
+    "last_name": "test2",
+    "age": 0x2B,
+    "children": [
+        { "first_name": "dd", "age": 5 },
+        { "first_name": "dx", "age": 8 },
+    ],
+    "wife": null,
+    "test_nested": {"hello": 23.2},
+    "data1":2.32,
+    "data2": 3,
+    "data3":   true,
+    "data4" :  false,
+
+    "simple" : [ 1221, 115, 276, 334, 375, "test23232", 23.1, 65.3, false, true, false ]
+}
